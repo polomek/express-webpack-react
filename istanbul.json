@@ -1,0 +1,13 @@
+{
+  "instrumentation": {
+    "extensions": [
+      ".js", ".jsx"
+    ],
+    "excludes": [
+      ".spec.js", ".spec.jsx"
+    ]
+  },
+  "reporting": {
+    "dir": "./build/reports/coverage"
+  }
+}
